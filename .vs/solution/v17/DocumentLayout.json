@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|c:\\users\\bick bermer\\downloads\\contemporaryprogrammingfinal\\finalproject\\controllers\\hobbycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|solutionrelative:controllers\\hobbycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|c:\\users\\bick bermer\\downloads\\contemporaryprogrammingfinal\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|c:\\users\\bick bermer\\downloads\\contemporaryprogrammingfinal\\finalproject\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|solutionrelative:models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|c:\\users\\bick bermer\\downloads\\contemporaryprogrammingfinal\\finalproject\\models\\hobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|solutionrelative:models\\hobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|c:\\users\\bick bermer\\downloads\\contemporaryprogrammingfinal\\finalproject\\models\\favoritefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|solutionrelative:models\\favoritefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|c:\\users\\bick bermer\\downloads\\contemporaryprogrammingfinal\\finalproject\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|c:\\users\\bick bermer\\downloads\\contemporaryprogrammingfinal\\finalproject\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|solutionrelative:controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|c:\\users\\bick bermer\\downloads\\contemporaryprogrammingfinal\\finalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|c:\\users\\bick bermer\\downloads\\contemporaryprogrammingfinal\\finalproject\\migrations\\finalprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|solutionrelative:migrations\\finalprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|c:\\users\\bick bermer\\downloads\\contemporaryprogrammingfinal\\finalproject\\controllers\\favoritefoodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|solutionrelative:controllers\\favoritefoodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|c:\\users\\bick bermer\\downloads\\contemporaryprogrammingfinal\\finalproject\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|c:\\users\\bick bermer\\downloads\\contemporaryprogrammingfinal\\finalproject\\finalproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{96C9B35B-FF87-4683-B949-C7AAFFA268A5}|FinalProject.csproj|solutionrelative:finalproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FinalProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Migrations\\FinalProjectContext.cs",
+              "RelativeDocumentMoniker": "Migrations\\FinalProjectContext.cs",
+              "ToolTip": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Migrations\\FinalProjectContext.cs",
+              "RelativeToolTip": "Migrations\\FinalProjectContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:39:55.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T20:38:10.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeamMemberController.cs",
+              "DocumentMoniker": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Controllers\\TeamMemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeamMemberController.cs",
+              "ToolTip": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Controllers\\TeamMemberController.cs",
+              "RelativeToolTip": "Controllers\\TeamMemberController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:04:01.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:10:03.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FavoriteFood.cs",
+              "DocumentMoniker": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Models\\FavoriteFood.cs",
+              "RelativeDocumentMoniker": "Models\\FavoriteFood.cs",
+              "ToolTip": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Models\\FavoriteFood.cs",
+              "RelativeToolTip": "Models\\FavoriteFood.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:08:40.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hobby.cs",
+              "DocumentMoniker": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Models\\Hobby.cs",
+              "RelativeDocumentMoniker": "Models\\Hobby.cs",
+              "ToolTip": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Models\\Hobby.cs",
+              "RelativeToolTip": "Models\\Hobby.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:06:56.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Models\\TeamMember.cs",
+              "RelativeDocumentMoniker": "Models\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Models\\TeamMember.cs",
+              "RelativeToolTip": "Models\\TeamMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:02:18.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:11:54.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HobbyController.cs",
+              "DocumentMoniker": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Controllers\\HobbyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HobbyController.cs",
+              "ToolTip": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Controllers\\HobbyController.cs",
+              "RelativeToolTip": "Controllers\\HobbyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:02:57.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FavoriteFoodController.cs",
+              "DocumentMoniker": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Controllers\\FavoriteFoodController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FavoriteFoodController.cs",
+              "ToolTip": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Controllers\\FavoriteFoodController.cs*",
+              "RelativeToolTip": "Controllers\\FavoriteFoodController.cs*",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwE8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:02:54.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\Controllers\\BookController.cs*",
+              "RelativeToolTip": "Controllers\\BookController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:02:55.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FinalProject",
+              "DocumentMoniker": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\FinalProject.csproj",
+              "RelativeDocumentMoniker": "FinalProject.csproj",
+              "ToolTip": "C:\\Users\\bick bermer\\Downloads\\ContemporaryProgrammingFinal\\FinalProject\\FinalProject.csproj",
+              "RelativeToolTip": "FinalProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T20:02:31.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
